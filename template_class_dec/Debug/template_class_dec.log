@@ -1,0 +1,7 @@
+﻿  Source.cpp
+f:\visual studio project\projects\template_class_dec\template_class_dec\dec.h(227): warning C4018: >: несоответствие типов со знаком и без знака
+  f:\visual studio project\projects\template_class_dec\template_class_dec\dec.h(226): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  f:\visual studio project\projects\template_class_dec\template_class_dec\source.cpp(35): note: см. ссылку на создание экземпляров функции шаблон при компиляции "int &my::dec<int>::operator [](const int &)"
+  f:\visual studio project\projects\template_class_dec\template_class_dec\source.cpp(29): note: см. ссылку на создание экземпляров класса шаблон при компиляции "my::dec<int>"
+  template_class_dec.vcxproj -> F:\Visual Studio Project\Projects\template_class_dec\Debug\template_class_dec.exe
+  template_class_dec.vcxproj -> F:\Visual Studio Project\Projects\template_class_dec\Debug\template_class_dec.pdb (Partial PDB)
